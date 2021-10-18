@@ -2,9 +2,9 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Swift & iOS
+- :orange_book: Focusing on Java & JavaScript
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- :ram: lang
 - :meat_on_bone: Meat lover
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Terrykali&repo=langAutoSign)]https://github.com/Terrykali/langAutoSign)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Terrykali&repo=langAutoSign)](https://github.com/Terrykali/langAutoSign)
