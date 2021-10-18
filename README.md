@@ -10,9 +10,7 @@
 - :ram: lang
 - :meat_on_bone: Meat lover
 </br>
-**Languages and Frameworks**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Terrykali&repo=langAutoSign)](https://github.com/Terrykali/langAutoSign)
 
