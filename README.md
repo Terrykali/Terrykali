@@ -1,4 +1,7 @@
-![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=Terrykali&show_icons=true&theme=tokyonight )
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Terrykali&show_icons=true&theme=tokyonight" />
+</a>
 
 ### 你好，世界 👋
 
@@ -11,4 +14,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Terrykali&repo=v2ray-heroku)](https://github.com/Terrykali/v2ray-heroku)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrykali&layout=compact)](https://github.com/Terrykali)
