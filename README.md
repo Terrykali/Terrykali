@@ -5,14 +5,10 @@
 - :hammer: Creator of applications and frameworks
 - :ram: lang
 - :meat_on_bone: Meat lover
-</br>
+<hr/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Terrykali&show_icons=true&theme=tokyonight" />
 </a>
 <p></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terrykali&layout=compact)](https://github.com/Terrykali)
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Terrykali&repo=langAutoSign)](https://github.com/Terrykali/langAutoSign)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Terrykali&repo=v2ray-heroku)](https://github.com/Terrykali/v2ray-heroku)-->
 
